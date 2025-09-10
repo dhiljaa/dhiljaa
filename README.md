@@ -211,9 +211,9 @@ Focus: Web Application & Network Penetration Testing
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=ahmadfadhil&color=blue&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/ahmadfadhil?style=for-the-badge&color=blue)
-![GitHub stars](https://img.shields.io/github/stars/ahmadfadhil?style=for-the-badge&color=yellow)
+![Profile Views](https://komarev.com/ghpvc/?username=dhiljaa&color=blue&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/dhiljaa?style=for-the-badge&color=blue)
+![GitHub stars](https://img.shields.io/github/stars/dhiljaa?style=for-the-badge&color=yellow)
 
 </div>
 
