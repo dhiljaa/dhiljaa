@@ -194,13 +194,13 @@
 
 ---
 
-## 🎨 Featured Projects Portfolio
+## 🎨 My Learning Projects
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=4ECDC4&center=true&vCenter=true&width=800&lines=💎+Premium+Web+Solutions;🚀+Modern+Digital+Experiences;⚡+Responsive+%26+Interactive+Designs;🌟+Client+Success+Stories;🎯+Results-Driven+Development" alt="Portfolio" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=4ECDC4&center=true&vCenter=true&width=800&lines=📚+Learning+Through+Building;🚀+Practice+Projects;⚡+Simple+but+Functional;🌱+Growing+My+Portfolio;🎯+Real+Learning+Experience" alt="Learning Projects" />
 </div>
 
-### **🎬 Entertainment & Media Solutions**
+### **🎬 Entertainment & Media Projects**
 <table align="center">
 <tr>
 <td align="center" width="50%">
@@ -208,13 +208,13 @@
 #### **🎥 EH Film**
 ![Website](https://img.shields.io/website-up-down-green-red/https/ehfilm.vercel.app.svg?style=for-the-badge)
 
-**Modern Streaming Platform**
-- 🎯 React.js & TailwindCSS
-- 📱 Fully Responsive Design
-- ⚡ Fast Loading & SEO Optimized
-- 🎨 Modern UI/UX Experience
+**My First Movie Site**
+- 🎯 Built with HTML, CSS, JS
+- 📱 Learning Responsive Design
+- ⚡ Simple but Working
+- 🎨 Basic UI Practice
 
-[**🚀 Live Demo**](https://ehfilm.vercel.app/)
+[**🚀 See Project**](https://ehfilm.vercel.app/)
 
 </td>
 <td align="center" width="50%">
@@ -222,53 +222,45 @@
 #### **📖 Al-Quran Digital**
 ![Website](https://img.shields.io/website-up-down-green-red/https/al-ikhsan-digital-quran.vercel.app.svg?style=for-the-badge)
 
-**Islamic Digital Reader**
-- 📚 Complete Quran Interface
-- 🎵 Audio Integration
-- 🔍 Advanced Search Features
-- 🌙 Dark/Light Mode
+**Learning API Integration**
+- 📚 Simple Quran Reader
+- 🔍 Basic Search Feature
+- 🌙 Dark/Light Mode Practice
+- 📱 Mobile-Friendly Design
 
-[**🚀 Live Demo**](https://al-ikhsan-digital-quran.vercel.app/)
-
-</td>
-</tr>
-</table>
-
-### **💎 E-Commerce & Business Platforms**
-<table align="center">
-<tr>
-<td width="33%" align="center">
-
-#### **💍 Indah Perak**
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
-
-Luxury Jewelry Store
-[**View Site**](https://indahperak.vercel.app/)
-
-</td>
-<td width="33%" align="center">
-
-#### **✨ Ardelya**
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-
-Premium Collection
-[**View Site**](https://ardelya.vercel.app/)
-
-</td>
-<td width="33%" align="center">
-
-#### **🏢 Bremafo**
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat-square&logo=mysql&logoColor=white)
-
-Business Solutions
-[**View Site**](https://bremafo.vercel.app/)
+[**🚀 See Project**](https://al-ikhsan-digital-quran.vercel.app/)
 
 </td>
 </tr>
 </table>
+
+### **💼 Business & E-commerce Learning Projects**
+
+<div align="center">
+
+| **Project** | **What I Learned** | **Technologies** | **Status** |
+|-------------|-------------------|------------------|------------|
+| **💍 Indah Perak** | Basic PHP & Bootstrap | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | [Live](https://indahperak.vercel.app/) |
+| **✨ Ardelya** | React Components | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | [Live](https://ardelya.vercel.app/) |
+| **🏢 Bremafo** | Node.js Basics | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) | [Live](https://bremafo.vercel.app/) |
+| **🏠 EHF Residence** | Laravel Learning | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | [Live](https://ehf-residence.vercel.app/) |
+| **🚗 EHF Cars** | JavaScript Practice | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [Live](https://ehfcars.vercel.app/) |
+
+</div>
+
+### **🌐 Company Profile Practice Projects**
+
+<div align="center">
+
+#### **Simple Company Websites I Built for Learning**
+
+| **Project** | **Learning Focus** | **Link** |
+|-------------|-------------------|----------|
+| **🤝 Teras Kebinekaan** | Professional Layout | [Visit](https://www.teraskebinekaan.org/) |
+| **🎨 EHF Creative** | Portfolio Design | [Visit](https://ehfcreative.xyz/) |
+| **💼 EHF Company** | Corporate Style | [Visit](https://ehfcompany.vercel.app/) |
+
+</div>
 
 ### **🏠 Real Estate & Automotive**
 <table align="center">
@@ -417,27 +409,13 @@ Automotive Business Portal
 
 ---
 
-## 📈 Profile Statistics & Recognition
+## 📈 Profile Activity & Learning Stats
 
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dhiljaa&color=blueviolet&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/dhiljaa?style=for-the-badge&color=blue&label=Followers)
-![GitHub stars](https://img.shields.io/github/stars/dhiljaa?style=for-the-badge&color=yellow&label=Total+Stars)
-
-</div>
-
----
-
-## 🎯 Support My Work
-
-<div align="center">
-
-### **☕ Buy Me a Coffee**
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dhiljaa)
-
-### **💝 Sponsor My Projects**
-[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/dhiljaa)
+![GitHub followers](https://img.shields.io/github/followers/dhiljaa?style=for-the-badge&color=blue&label=Learning+Partners)
+![GitHub stars](https://img.shields.io/github/stars/dhiljaa?style=for-the-badge&color=yellow&label=Project+Stars)
 
 </div>
 
@@ -445,27 +423,34 @@ Automotive Business Portal
 
 <div align="center">
 
-### **💭 Developer Philosophy**
+### **💭 My Learning Philosophy**
 
-> *"The best way to predict the future is to implement it securely."*
+> *"Every expert was once a beginner. Every pro was once an amateur."*
 
-### **🎨 ASCII Art Signature**
+### **🎯 Current Learning Goals**
+- 📚 **Master Frontend Basics** - HTML, CSS, JavaScript fundamentals
+- 🔧 **Learn Backend Development** - PHP, Node.js, Database management  
+- 🔐 **Explore Cybersecurity** - Basic penetration testing and security concepts
+- 🚀 **Build Real Projects** - Apply knowledge through hands-on practice
+- 🤝 **Connect with Community** - Learn from other developers and security professionals
+
+### **🎨 Simple Learning Journey**
 
 ```
-    ██████╗ ██╗  ██╗██╗██╗         ██╗ █████╗  █████╗ 
-    ██╔══██╗██║  ██║██║██║         ██║██╔══██╗██╔══██╗
-    ██║  ██║███████║██║██║         ██║███████║███████║
-    ██║  ██║██╔══██║██║██║    ██   ██║██╔══██║██╔══██║
-    ██████╔╝██║  ██║██║███████╗╚█████╔╝██║  ██║██║  ██║
-    ╚═════╝ ╚═╝  ╚═╝╚═╝╚══════╝ ╚════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+    ██╗     ███████╗ █████╗ ██████╗ ███╗   ██╗██╗███╗   ██╗ ██████╗ 
+    ██║     ██╔════╝██╔══██╗██╔══██╗████╗  ██║██║████╗  ██║██╔════╝ 
+    ██║     █████╗  ███████║██████╔╝██╔██╗ ██║██║██╔██╗ ██║██║  ███╗
+    ██║     ██╔══╝  ██╔══██║██╔══██╗██║╚██╗██║██║██║╚██╗██║██║   ██║
+    ███████╗███████╗██║  ██║██║  ██║██║ ╚████║██║██║ ╚████║╚██████╔╝
+    ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═══╝ ╚═════╝ 
     
-         🚀 Building the future, one commit at a time 🚀
+         🌱 Growing step by step, one line of code at a time 🌱
 ```
 
-**⭐ Thanks for visiting my profile! Don't forget to star my repositories if you find them interesting! ⭐**
+**⭐ Thanks for visiting my learning journey! Don't forget to check out my practice projects! ⭐**
 
-### **🔄 Auto-Updating Stats**
-*This profile README automatically updates with fresh statistics every time you visit!*
+### **🔄 Learning Progress Updates**
+*This profile shows my real learning progress and gets updated as I grow!*
 
 **Last Updated:** ![Last Updated](https://img.shields.io/github/last-commit/dhiljaa/dhiljaa?style=flat-square&color=blue&label=Profile%20Updated)
 
