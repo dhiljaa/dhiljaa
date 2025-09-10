@@ -1,463 +1,341 @@
-# Hi there! 👋 I'm Ahmad Fadhil
+# 👨‍💻 Ahmad Fadhil | Cyber Security Enthusiast
+
+```bash
+┌──(root㉿kali)-[~/portfolio]
+└─$ whoami && echo "Welcome to my digital realm"
+ahmad_fadhil
+Welcome to my digital realm
+
+┌──(root㉿kali)-[~/portfolio] 
+└─$ cat /etc/passwd | grep ahmad_fadhil
+ahmad_fadhil:x:1000:1000:Full Stack Developer & Penetration Tester:/home/ahmad_fadhil:/bin/bash
+```
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=🚀+Full+Stack+Web+Developer;🔐+Aspiring+Penetration+Tester;⚡+Frontend+%26+Backend+Developer;🎯+Always+Learning+New+Technologies;💻+Code+%7C+Create+%7C+Innovate;🛡️+Cybersecurity+Enthusiast;🌟+Building+Digital+Solutions" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  
-![Matrix](https://i.imgur.com/dBaSKWF.gif)
-
-</div>
-
----
-
-## 🚀 About Me
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=FF6B6B&center=true&vCenter=true&width=800&lines=🌟+Passionate+Web+Developer+%7C+Cybersecurity+Explorer;📍+Bandung%2C+West+Java%2C+Indonesia;🔥+Transforming+Ideas+into+Digital+Reality;🚀+On+a+Mission+to+Secure+the+Digital+World" alt="About Me" />
-</div>
-
-### 💫 **Current Journey**
-- 🔭 **Web Development**: Creating modern, responsive, and scalable web applications
-- 🔐 **Cybersecurity**: Diving deep into penetration testing and ethical hacking
-- 🌱 **Learning**: Always expanding my knowledge in both development and security
-- 💡 **Passion**: Building secure, user-friendly digital solutions
-- 🎯 **Mission**: Making the internet a safer place, one code at a time
-- ⚡ **Content Creator**: Sharing knowledge on TikTok [@ehfcreative](https://www.tiktok.com/@ehfcreative)
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhiljaa&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=73daca&line=bb9af7&point=f7768e" alt="Activity Graph" width="100%"/>
-</div>
-
----
-
-## 🛠️ Tech Stack & Arsenal
-
-### **🎨 Frontend Mastery**
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</div>
-
-### **⚙️ Backend Powerhouse**
-<div align="center">
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-</div>
-
-### **🔧 Development Tools**
-<div align="center">
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+FULL+STACK+DEVELOPER;%3E+PENETRATION+TESTER;%3E+CYBERSECURITY+RESEARCHER;%3E+DIGITAL+FORENSICS;%3E+RED+TEAM+OPERATIONS;%3E+THREAT+HUNTER)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🔒 Cybersecurity & Penetration Testing Arsenal
+## 🎯 **CURRENT STATUS**
+
+```yaml
+name: "Ahmad Fadhil"
+location: "Bandung, West Java, Indonesia"
+current_focus: 
+  - "Advanced Web Penetration Testing"
+  - "Red Team Operations"
+  - "Secure Code Development"
+learning:
+  - "OWASP Testing Guide"
+  - "Advanced Exploitation Techniques"
+  - "Malware Analysis & Reverse Engineering"
+certifications_in_progress:
+  - "CEH (Certified Ethical Hacker)"
+  - "eWPT (eLearnSecurity Web Penetration Tester)"
+  - "OSCP (Offensive Security Certified Professional)"
+```
+
+---
+
+## ⚡ **TECHNICAL ARSENAL**
+
+### 🔴 **OFFENSIVE SECURITY TOOLKIT**
+
+<details>
+<summary>🎯 <b>RECONNAISSANCE & ENUMERATION</b></summary>
+
+```bash
+# Network Discovery & Port Scanning
+nmap -sS -sV -O --script vuln target.com
+masscan -p1-65535 --rate=10000 target.com
+rustscan -a target.com -- -A -sC
+
+# Web Application Discovery  
+gobuster dir -u https://target.com -w /usr/share/wordlists/dirb/common.txt
+ffuf -w /usr/share/wordlists/SecLists/Discovery/Web-Content/common.txt -u https://target.com/FUZZ
+nikto -h https://target.com
+
+# DNS Enumeration
+dig axfr @ns1.target.com target.com
+dnsrecon -d target.com -t axfr
+amass enum -d target.com
+```
+
+**Tools:** `nmap` • `masscan` • `gobuster` • `ffuf` • `nikto` • `amass` • `subfinder` • `httpx`
+
+</details>
+
+<details>
+<summary>🕷️ <b>WEB APPLICATION TESTING</b></summary>
+
+```bash
+# SQL Injection Testing
+sqlmap -u "https://target.com/page?id=1" --batch --dbs
+sqlmap -u "https://target.com/page?id=1" --dump-all
+
+# XSS Testing
+echo "https://target.com" | waybackurls | gf xss | qsreplace '"><script>alert(1)</script>' | freq
+
+# Directory Traversal
+curl -s "https://target.com/page?file=../../../etc/passwd"
+
+# Parameter Discovery
+paramspider -d target.com
+arjun -u https://target.com/page
+```
+
+**Tools:** `Burp Suite Professional` • `OWASP ZAP` • `sqlmap` • `xsstrike` • `commix` • `wfuzz`
+
+</details>
+
+<details>
+<summary>💀 <b>EXPLOITATION & POST-EXPLOITATION</b></summary>
+
+```bash
+# Metasploit Framework
+msfconsole
+use exploit/multi/handler
+set payload windows/x64/meterpreter/reverse_tcp
+exploit -j
+
+# Privilege Escalation
+./linpeas.sh
+./winpeas.exe
+python3 -m http.server 8000
+
+# Persistence & Lateral Movement
+crackmapexec smb 192.168.1.0/24 -u admin -p password
+impacket-secretsdump domain/user:password@target
+```
+
+**Tools:** `Metasploit` • `Cobalt Strike` • `Empire` • `BloodHound` • `mimikatz` • `impacket`
+
+</details>
+
+### 🟢 **DEVELOPMENT STACK**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=FF0000&center=true&vCenter=true&width=900&lines=🔐+Ethical+Hacker+in+Training;🕵️+Penetration+Testing+Specialist;🛡️+Cybersecurity+Researcher;🎯+OWASP+Top+10+Expert;💀+Vulnerability+Hunter;⚡+Red+Team+Enthusiast;🔍+Security+Assessment+Pro;🚨+Incident+Response+Ready" alt="Penetration Testing" />
+
+| **Frontend** | **Backend** | **Security** | **DevOps** |
+|:---:|:---:|:---:|:---:|
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white) | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+
 </div>
 
-### **🎯 Penetration Testing Specializations**
+---
 
-<table align="center">
+## 📊 **PENETRATION TESTING PROGRESS**
+
+<div align="center">
+
+### 🎯 **SKILL MATRIX**
+
+| **Domain** | **Level** | **Tools Mastered** | **Next Target** |
+|:---|:---:|:---|:---|
+| **Web App Security** | ![85%](https://progress-bar.dev/85) | Burp Suite, OWASP ZAP, SQLmap | Advanced WAF Bypass |
+| **Network Penetration** | ![75%](https://progress-bar.dev/75) | Nmap, Metasploit, Nessus | Active Directory Attacks |
+| **Social Engineering** | ![60%](https://progress-bar.dev/60) | SET, GoPhish, King Phisher | Physical Security |
+| **Malware Analysis** | ![45%](https://progress-bar.dev/45) | Ghidra, x64dbg, Wireshark | Dynamic Analysis |
+| **Digital Forensics** | ![40%](https://progress-bar.dev/40) | Autopsy, Volatility, FTK | Mobile Forensics |
+
+### 🏆 **CERTIFICATION ROADMAP**
+
+```mermaid
+gantt
+    title Cybersecurity Certification Journey
+    dateFormat  YYYY-MM
+    section 2024
+    CEH                :active, ceh, 2024-01, 2024-06
+    Security+          :sec, 2024-04, 2024-08
+    section 2025  
+    eWPT               :ewpt, 2024-09, 2025-02
+    OSCP               :oscp, 2025-01, 2025-08
+    section 2026
+    CISSP              :cissp, 2025-06, 2026-02
+    CISM               :cism, 2025-12, 2026-06
+```
+
+</div>
+
+---
+
+## 🎮 **TRAINING GROUNDS & ACHIEVEMENTS**
+
+<div align="center">
+
+### 🏴‍☠️ **CTF PLATFORMS**
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/dhiljaa)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/dhiljaa)
+[![VulnHub](https://img.shields.io/badge/VulnHub-FF6B6B?style=for-the-badge&logoColor=white)](#)
+[![OverTheWire](https://img.shields.io/badge/OverTheWire-000000?style=for-the-badge&logoColor=white)](#)
+
+### 📈 **CURRENT RANKINGS**
+
+| Platform | Rank | Points | Streak |
+|:---:|:---:|:---:|:---:|
+| **TryHackMe** | 🥇 Top 10% | 2,500+ | 30 days |
+| **Hack The Box** | 🥈 Hacker | 1,200+ | Active |
+| **VulnHub** | 🥉 Intermediate | 50+ VMs | Weekly |
+
+</div>
+
+---
+
+## 🔥 **RECENT PROJECTS & EXPLOITS**
+
+### 🎯 **WEB APPLICATION SECURITY**
+
+<table>
 <tr>
-<td align="center" width="50%">
+<td width="50%">
 
-#### **🌐 Web Application Security**
-- **OWASP Top 10 Mastery**
-- **SQL Injection Techniques**
-- **Cross-Site Scripting (XSS)**
-- **CSRF & Session Management**
-- **Authentication Bypasses**
-- **API Security Testing**
+#### 🕷️ **Vulnerable Web App Scanner**
+```bash
+#!/bin/bash
+# Custom vulnerability scanner
+target=$1
+echo "[+] Starting scan on $target"
+nmap -sV --script vuln $target
+gobuster dir -u $target -w /usr/share/wordlists/dirb/common.txt
+```
+**Stack:** `Python` • `Bash` • `Nmap` • `Custom Scripts`
+**Features:** Automated scanning, Custom payloads, Report generation
 
 </td>
-<td align="center" width="50%">
+<td width="50%">
 
-#### **🖥️ Network Penetration**
-- **Network Reconnaissance**
-- **Port Scanning & Enumeration**
-- **Vulnerability Assessment**
-- **Privilege Escalation**
-- **Post-Exploitation**
-- **Lateral Movement**
+#### 🔍 **OSINT Automation Tool** 
+```python
+import requests
+import json
+from shodan import Shodan
+
+class OSINTFramework:
+    def __init__(self, target):
+        self.target = target
+    
+    def scan_subdomains(self):
+        # Subdomain enumeration logic
+        pass
+```
+**Stack:** `Python` • `APIs` • `Web Scraping`
+**Features:** Domain intel, Social media analysis, Dark web monitoring
 
 </td>
 </tr>
 </table>
 
-### **⚔️ Penetration Testing Toolkit**
+### 🏢 **PROFESSIONAL DEVELOPMENT PROJECTS**
 
 <div align="center">
 
-#### **🔍 Reconnaissance & Scanning**
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
-![Gobuster](https://img.shields.io/badge/Gobuster-FF6B35?style=for-the-badge&logoColor=white)
-![Nikto](https://img.shields.io/badge/Nikto-8B0000?style=for-the-badge&logoColor=white)
-![Masscan](https://img.shields.io/badge/Masscan-1E90FF?style=for-the-badge&logoColor=white)
-
-#### **🕷️ Web Application Testing**
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
-![SQLmap](https://img.shields.io/badge/SQLmap-CC2936?style=for-the-badge&logoColor=white)
-![Wfuzz](https://img.shields.io/badge/Wfuzz-FF4500?style=for-the-badge&logoColor=white)
-
-#### **💀 Exploitation & Post-Exploitation**
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Cobalt Strike](https://img.shields.io/badge/Cobalt_Strike-000000?style=for-the-badge&logoColor=white)
-![Empire](https://img.shields.io/badge/Empire-8B008B?style=for-the-badge&logoColor=white)
-![Mimikatz](https://img.shields.io/badge/Mimikatz-DC143C?style=for-the-badge&logoColor=white)
-
-#### **🔍 Network Analysis**
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge&logoColor=white)
-![OpenVAS](https://img.shields.io/badge/OpenVAS-73BA25?style=for-the-badge&logoColor=white)
-![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-FF1493?style=for-the-badge&logoColor=white)
-
-</div>
-
-### **🐧 Operating Systems & Environments**
-
-<div align="center">
-
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Parrot Security](https://img.shields.io/badge/Parrot_Security-15A085?style=for-the-badge&logo=parrotsecurity&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-
-</div>
-
-### **📊 Learning Progress & Skills Matrix**
-
-<div align="center">
-
-| **Domain** | **Skills** | **Progress** | **Confidence Level** |
-|------------|------------|--------------|---------------------|
-| **🔍 Information Gathering** | OSINT, Footprinting, Enumeration | ![80%](https://progress-bar.dev/80) | ⭐⭐⭐⭐☆ |
-| **🕷️ Web App Security** | OWASP Top 10, Burp Suite, Manual Testing | ![75%](https://progress-bar.dev/75) | ⭐⭐⭐⭐☆ |
-| **🖥️ Network Penetration** | Nmap, Vulnerability Assessment | ![65%](https://progress-bar.dev/65) | ⭐⭐⭐☆☆ |
-| **💀 Exploitation** | Metasploit, Custom Exploits | ![60%](https://progress-bar.dev/60) | ⭐⭐⭐☆☆ |
-| **📋 Post-Exploitation** | Privilege Escalation, Persistence | ![55%](https://progress-bar.dev/55) | ⭐⭐⭐☆☆ |
-| **📝 Reporting** | Technical Writing, Risk Assessment | ![70%](https://progress-bar.dev/70) | ⭐⭐⭐⭐☆ |
-
-</div>
-
-### **🏆 Certification Roadmap & Goals**
-
-<div align="center">
-
-#### **🎯 Current Targets (2024-2025)**
-![CEH](https://img.shields.io/badge/CEH-Certified_Ethical_Hacker-FF0000?style=for-the-badge)
-![eWPT](https://img.shields.io/badge/eWPT-eLearnSecurity-1E90FF?style=for-the-badge)
-![Security+](https://img.shields.io/badge/Security+-CompTIA-FF6B35?style=for-the-badge)
-
-#### **🚀 Advanced Goals (2025-2026)**
-![OSCP](https://img.shields.io/badge/OSCP-Offensive_Security-8B0000?style=for-the-badge)
-![CISSP](https://img.shields.io/badge/CISSP-Information_Security-4169E1?style=for-the-badge)
-![CISM](https://img.shields.io/badge/CISM-Security_Management-228B22?style=for-the-badge)
-
-</div>
-
-### **🎮 Training Platforms & Labs**
-
-<div align="center">
-
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)
-![VulnHub](https://img.shields.io/badge/VulnHub-FF6B6B?style=for-the-badge&logoColor=white)
-![OverTheWire](https://img.shields.io/badge/OverTheWire-000000?style=for-the-badge&logoColor=white)
-![PentesterLab](https://img.shields.io/badge/PentesterLab-FF4500?style=for-the-badge&logoColor=white)
+| **Project** | **Type** | **Security Focus** | **Status** |
+|:---|:---:|:---|:---:|
+| **🎬 EH Film** | Media Platform | XSS Prevention, Input Validation | [Live](https://ehfilm.vercel.app/) |
+| **📖 Al-Quran Digital** | Religious App | Secure API Integration, Data Protection | [Live](https://al-ikhsan-digital-quran.vercel.app/) |
+| **☁️ Negantara Cloud** | Cloud Services | Infrastructure Security, Access Control | [Live](https://negantara-cloud.vercel.app/) |
+| **🏠 EHF Residence** | Real Estate | SQL Injection Prevention, Session Security | [Live](https://ehf-residence.vercel.app/) |
 
 </div>
 
 ---
 
-## 🎨 My Learning Projects
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=4ECDC4&center=true&vCenter=true&width=800&lines=📚+Learning+Through+Building;🚀+Practice+Projects;⚡+Simple+but+Functional;🌱+Growing+My+Portfolio;🎯+Real+Learning+Experience" alt="Learning Projects" />
-</div>
-
-### **🎬 Entertainment & Media Projects**
-<table align="center">
-<tr>
-<td align="center" width="50%">
-
-#### **🎥 EH Film**
-![Website](https://img.shields.io/website-up-down-green-red/https/ehfilm.vercel.app.svg?style=for-the-badge)
-
-**My First Movie Site**
-- 🎯 Built with HTML, CSS, JS
-- 📱 Learning Responsive Design
-- ⚡ Simple but Working
-- 🎨 Basic UI Practice
-
-[**🚀 See Project**](https://ehfilm.vercel.app/)
-
-</td>
-<td align="center" width="50%">
-
-#### **📖 Al-Quran Digital**
-![Website](https://img.shields.io/website-up-down-green-red/https/al-ikhsan-digital-quran.vercel.app.svg?style=for-the-badge)
-
-**Learning API Integration**
-- 📚 Simple Quran Reader
-- 🔍 Basic Search Feature
-- 🌙 Dark/Light Mode Practice
-- 📱 Mobile-Friendly Design
-
-[**🚀 See Project**](https://al-ikhsan-digital-quran.vercel.app/)
-
-</td>
-</tr>
-</table>
-
-### **💼 Business & E-commerce Learning Projects**
+## 📊 **GITHUB INTELLIGENCE**
 
 <div align="center">
 
-| **Project** | **What I Learned** | **Technologies** | **Status** |
-|-------------|-------------------|------------------|------------|
-| **💍 Indah Perak** | Basic PHP & Bootstrap | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | [Live](https://indahperak.vercel.app/) |
-| **✨ Ardelya** | React Components | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | [Live](https://ardelya.vercel.app/) |
-| **🏢 Bremafo** | Node.js Basics | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) | [Live](https://bremafo.vercel.app/) |
-| **🏠 EHF Residence** | Laravel Learning | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | [Live](https://ehf-residence.vercel.app/) |
-| **🚗 EHF Cars** | JavaScript Practice | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [Live](https://ehfcars.vercel.app/) |
+### 🔥 **DEVELOPMENT METRICS**
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=dhiljaa&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhiljaa&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" width="49%"/>
 
-### **🌐 Company Profile Practice Projects**
+### 🎯 **CODE ANALYSIS**
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiljaa&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Top Languages" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhiljaa&theme=chartreuse_dark" alt="Repos per Language" width="49%"/>
 
-#### **Simple Company Websites I Built for Learning**
+### 🏆 **ACHIEVEMENTS UNLOCKED**
 
-| **Project** | **Learning Focus** | **Link** |
-|-------------|-------------------|----------|
-| **🤝 Teras Kebinekaan** | Professional Layout | [Visit](https://www.teraskebinekaan.org/) |
-| **🎨 EHF Creative** | Portfolio Design | [Visit](https://ehfcreative.xyz/) |
-| **💼 EHF Company** | Corporate Style | [Visit](https://ehfcompany.vercel.app/) |
-
-</div>
-
-### **🏠 Real Estate & Automotive**
-<table align="center">
-<tr>
-<td width="50%" align="center">
-
-#### **🏠 EHF Residence**
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-
-Real Estate Showcase Platform
-- 🏘️ Property Management System
-- 📱 Mobile-First Design
-- 🔍 Advanced Search Filters
-
-[**🚀 Explore Properties**](https://ehf-residence.vercel.app/)
-
-</td>
-<td width="50%" align="center">
-
-#### **🚗 EHF Cars**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-Automotive Business Portal
-- 🚙 Car Inventory Management
-- 💰 Price Calculator
-- 📊 Analytics Dashboard
-
-[**🚀 Browse Cars**](https://ehfcars.vercel.app/)
-
-</td>
-</tr>
-</table>
-
-### **☁️ Cloud & Technology Services**
-<div align="center">
-
-#### **☁️ Negantara Cloud**
-![Cloud](https://img.shields.io/badge/Cloud_Services-FF6B6B?style=for-the-badge&logoColor=white)
-
-**Enterprise Cloud Solutions Platform**
-- ☁️ Multi-cloud Management
-- 🔒 Security-First Architecture  
-- 📊 Real-time Monitoring
-- 💼 Enterprise Grade Solutions
-
-[**🚀 Discover Cloud Solutions**](https://negantara-cloud.vercel.app/)
+<img src="https://github-profile-trophy.vercel.app/?username=dhiljaa&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics & Performance Metrics
+## 🌐 **SECURE COMMUNICATION CHANNELS**
 
 <div align="center">
 
-### **📈 Comprehensive Development Overview**
-
-<img src="https://github-readme-stats.vercel.app/api?username=dhiljaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=c0caf5&icon_color=bb9af7" alt="GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiljaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=c0caf5" alt="Top Languages" width="49%"/>
-
-### **🔥 Contribution Streak & Development Activity**
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhiljaa&theme=tokyonight&hide_border=true&background=1a1b27&ring=bb9af7&fire=f7768e&currStreakLabel=70a5fd&sideLabels=c0caf5&dates=c0caf5" alt="GitHub Streak" width="100%"/>
-
-### **📊 Advanced Repository Analytics**
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhiljaa&theme=tokyonight" alt="Profile Summary" width="100%"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhiljaa&theme=tokyonight" alt="Repos per Language" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhiljaa&theme=tokyonight" alt="Most Commit Language" width="49%"/>
-
-### **🏆 GitHub Achievements & Recognition**
-
-<img src="https://github-profile-trophy.vercel.app/?username=dhiljaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" width="100%"/>
-
-### **📊 Real-time Development Metrics**
-
-<table align="center">
-<tr>
-<td align="center">
-
-**📚 Repository Stats**
-![Total Repos](https://img.shields.io/badge/dynamic/json?color=bb9af7&labelColor=1a1b27&style=for-the-badge&label=Total%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdhiljaa)
-
-</td>
-<td align="center">
-
-**⭐ Stars Earned**
-![Stars](https://img.shields.io/github/stars/dhiljaa?style=for-the-badge&color=f7768e&labelColor=1a1b27&label=Total%20Stars)
-
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**👥 Community**
-![Followers](https://img.shields.io/badge/dynamic/json?color=70a5fd&labelColor=1a1b27&style=for-the-badge&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdhiljaa)
-
-</td>
-<td align="center">
-
-**🔀 Contributions**
-![Forks](https://img.shields.io/github/forks/dhiljaa?style=for-the-badge&color=9ece6a&labelColor=1a1b27&label=Total%20Forks)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🌐 Connect & Collaborate
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=FF79C6&center=true&vCenter=true&width=700&lines=🤝+Let's+Build+Something+Amazing+Together!;💼+Available+for+Freelance+Projects;🌟+Always+Open+to+New+Opportunities;📞+Ready+to+Discuss+Your+Next+Project" alt="Connect" />
-</div>
-
-### **💼 Professional Networks**
-<div align="center">
+### 📡 **PROFESSIONAL NETWORKS**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-fadhil-3594672a4/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ehfcreative.xyz/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadfadhil289@gmail.com)
-[![Business Email](https://img.shields.io/badge/Business%20Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:info@ehfcreative.xyz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00FF41?style=for-the-badge&logo=google-chrome&logoColor=black)](https://ehfcreative.xyz/)
+[![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:ahmadfadhil289@gmail.com)
 
-</div>
-
-### **🎨 Content & Social Media**
-<div align="center">
+### 🎨 **CONTENT CHANNELS**
 
 [![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@ehfcreative)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dhiljaa)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@ehfcreative)
-
-</div>
-
-### **💻 Development Communities**
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dhiljaa)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your-id)
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/dhiljaa)
 
-</div>
+### 🔒 **SECURE CHANNELS**
 
----
-
-## 📈 Profile Activity & Learning Stats
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=dhiljaa&color=blueviolet&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/dhiljaa?style=for-the-badge&color=blue&label=Learning+Partners)
-![GitHub stars](https://img.shields.io/github/stars/dhiljaa?style=for-the-badge&color=yellow&label=Project+Stars)
+[![Signal](https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white)](#)
+[![Keybase](https://img.shields.io/badge/Keybase-33A0FF?style=for-the-badge&logo=keybase&logoColor=white)](#)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
 
 </div>
 
 ---
 
+## 🎭 **ETHICAL HACKER'S CREED**
+
 <div align="center">
 
-### **💭 My Learning Philosophy**
-
-> *"Every expert was once a beginner. Every pro was once an amateur."*
-
-### **🎯 Current Learning Goals**
-- 📚 **Master Frontend Basics** - HTML, CSS, JavaScript fundamentals
-- 🔧 **Learn Backend Development** - PHP, Node.js, Database management  
-- 🔐 **Explore Cybersecurity** - Basic penetration testing and security concepts
-- 🚀 **Build Real Projects** - Apply knowledge through hands-on practice
-- 🤝 **Connect with Community** - Learn from other developers and security professionals
-
-### **🎨 Simple Learning Journey**
-
-```
-    ██╗     ███████╗ █████╗ ██████╗ ███╗   ██╗██╗███╗   ██╗ ██████╗ 
-    ██║     ██╔════╝██╔══██╗██╔══██╗████╗  ██║██║████╗  ██║██╔════╝ 
-    ██║     █████╗  ███████║██████╔╝██╔██╗ ██║██║██╔██╗ ██║██║  ███╗
-    ██║     ██╔══╝  ██╔══██║██╔══██╗██║╚██╗██║██║██║╚██╗██║██║   ██║
-    ███████╗███████╗██║  ██║██║  ██║██║ ╚████║██║██║ ╚████║╚██████╔╝
-    ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═══╝ ╚═════╝ 
-    
-         🌱 Growing step by step, one line of code at a time 🌱
+```ascii
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║  "I am a guardian of the digital realm. I use my skills to       ║
+║   protect, not to harm. I seek knowledge to strengthen           ║
+║   defenses, not to exploit vulnerabilities for personal gain.    ║
+║   I am committed to ethical practices, responsible disclosure,    ║
+║   and making the internet a safer place for everyone."           ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
-**⭐ Thanks for visiting my learning journey! Don't forget to check out my practice projects! ⭐**
+### 🎯 **MISSION STATEMENT**
 
-### **🔄 Learning Progress Updates**
-*This profile shows my real learning progress and gets updated as I grow!*
-
-**Last Updated:** ![Last Updated](https://img.shields.io/github/last-commit/dhiljaa/dhiljaa?style=flat-square&color=blue&label=Profile%20Updated)
+> *Building secure applications by day, hunting vulnerabilities by night.*
+> 
+> *Always learning, always improving, always ethical.*
 
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Happy%20Coding!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=75"/>
+
+```bash
+┌──(root㉿kali)-[~/portfolio]
+└─$ echo "Thanks for visiting my digital fortress!"
+Thanks for visiting my digital fortress!
+
+┌──(root㉿kali)-[~/portfolio]  
+└─$ exit
+logout
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=dhiljaa&color=brightgreen&style=for-the-badge&label=RECONNAISSANCE+COUNT)
+[![GitHub followers](https://img.shields.io/github/followers/dhiljaa?style=for-the-badge&color=brightgreen&label=DIGITAL+ALLIES)](https://github.com/dhiljaa?tab=followers)
+
+**⚡ Remember: With great power comes great responsibility ⚡**
+
 </div>
