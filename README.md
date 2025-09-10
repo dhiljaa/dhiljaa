@@ -180,11 +180,11 @@ Focus: Web Application & Network Penetration Testing
 
 | **Metric** | **Value** |
 |------------|-----------|
-| **📚 Total Repositories** | ![Total Repos](https://img.shields.io/badge/dynamic/json?color=58a6ff&labelColor=0d1117&style=for-the-badge&label=Total%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fahmadfadhil) |
-| **👥 Total Followers** | ![Followers](https://img.shields.io/badge/dynamic/json?color=ff7b72&labelColor=0d1117&style=for-the-badge&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fahmadfadhil) |
-| **👤 Following** | ![Following](https://img.shields.io/badge/dynamic/json?color=79c0ff&labelColor=0d1117&style=for-the-badge&label=Following&query=%24.following&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fahmadfadhil) |
-| **⭐ Total Stars Earned** | ![Stars](https://img.shields.io/github/stars/ahmadfadhil?style=for-the-badge&color=ffa657&labelColor=0d1117&label=Total%20Stars) |
-| **🔀 Total Forks** | ![Forks](https://img.shields.io/github/forks/ahmadfadhil?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=Total%20Forks) |
+| **📚 Total Repositories** | ![Total Repos](https://img.shields.io/badge/dynamic/json?color=58a6ff&labelColor=0d1117&style=for-the-badge&label=Total%20Repos&query=%24.public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdhiljaa) |
+| **👥 Total Followers** | ![Followers](https://img.shields.io/badge/dynamic/json?color=ff7b72&labelColor=0d1117&style=for-the-badge&label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdhiljaa) |
+| **👤 Following** | ![Following](https://img.shields.io/badge/dynamic/json?color=79c0ff&labelColor=0d1117&style=for-the-badge&label=Following&query=%24.following&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fdhiljaa) |
+| **⭐ Total Stars Earned** | ![Stars](https://img.shields.io/github/stars/dhiljaa?style=for-the-badge&color=ffa657&labelColor=0d1117&label=Total%20Stars) |
+| **🔀 Total Forks** | ![Forks](https://img.shields.io/github/forks/dhiljaa?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=Total%20Forks) |
 
 </div>
 
