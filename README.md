@@ -129,50 +129,50 @@ Focus: Web Application & Network Penetration Testing
 <table>
 <tr>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ahmadfadhil&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" alt="GitHub Stats" width="495"/>
+<img src="https://github-readme-stats.vercel.app/api?username=dhiljaa&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=79c0ff" alt="GitHub Stats" width="495"/>
 </td>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadfadhil&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhiljaa&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" width="400"/>
 </td>
 </tr>
 </table>
 
 ### 🔥 **Contribution Streak & Activity**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadfadhil&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" alt="GitHub Streak" width="900"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhiljaa&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" alt="GitHub Streak" width="900"/>
 
 ### 📊 **Detailed Repository Statistics**
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmadfadhil&theme=radical" alt="Profile Summary" width="900"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dhiljaa&theme=radical" alt="Profile Summary" width="900"/>
 </div>
 
 <table align="center">
 <tr>
 <td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ahmadfadhil&theme=radical" alt="Repos per Language" width="400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhiljaa&theme=radical" alt="Repos per Language" width="400"/>
 </td>
 <td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ahmadfadhil&theme=radical" alt="Most Commit Language" width="400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhiljaa&theme=radical" alt="Most Commit Language" width="400"/>
 </td>
 </tr>
 <tr>
 <td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahmadfadhil&theme=radical" alt="GitHub Stats Summary" width="400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dhiljaa&theme=radical" alt="GitHub Stats Summary" width="400"/>
 </td>
 <td align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahmadfadhil&theme=radical&utc_offset=7" alt="Productive Time" width="400"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dhiljaa&theme=radical&utc_offset=7" alt="Productive Time" width="400"/>
 </td>
 </tr>
 </table>
 
 ### 📈 **Annual Contribution Graph**
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadfadhil&theme=redical&hide_border=true&bg_color=0d1117&color=79c0ff&line=58a6ff&point=ff7b72" alt="Activity Graph" width="900"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhiljaa&theme=redical&hide_border=true&bg_color=0d1117&color=79c0ff&line=58a6ff&point=ff7b72" alt="Activity Graph" width="900"/>
 
 ### 🏆 **GitHub Achievements & Trophies**
 
-<img src="https://github-profile-trophy.vercel.app/?username=ahmadfadhil&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" width="900"/>
+<img src="https://github-profile-trophy.vercel.app/?username=dhiljaa&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" width="900"/>
 
 ### 📊 **Real-time Repository Metrics**
 
