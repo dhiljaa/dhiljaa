@@ -409,142 +409,31 @@
 
 
 
-### 🏆 GitHub Achievements & Trophy Collection
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=🏆+Achievement+Unlocked!;🎖️+Digital+Warrior+Status;⭐+Coding+Master+Level;🚀+Project+Builder+Pro;🔥+Tech+Stack+Collector" alt="Achievement Header" />
-</div>
-
-<div align="center">
-
-### 🏆 **Trophy Cabinet**
-
+🏆 GitHub Achievements & Recognition
+<img src="https://github-profile-trophy.vercel.app/?username=dhiljaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" width="100%"/>
+📊 Real-time Development Metrics
 <table align="center">
 <tr>
-<td align="center" width="20%">
-<div>
-🥇<br>
-<strong>GOLD TROPHY</strong><br>
-<sub>15+ Projects Completed</sub><br>
-<img src="https://img.shields.io/badge/UNLOCKED-FFD700?style=for-the-badge&logo=trophy&logoColor=black"/>
-</div>
+<td align="center">
+📚 Repository Stats
+Show Image
 </td>
-<td align="center" width="20%">
-<div>
-🥈<br>
-<strong>SILVER TROPHY</strong><br>
-<sub>Multi-Tech Master</sub><br>
-<img src="https://img.shields.io/badge/UNLOCKED-C0C0C0?style=for-the-badge&logo=medal&logoColor=black"/>
-</div>
+<td align="center">
+⭐ Stars Earned
+Show Image
 </td>
-<td align="center" width="20%">
-<div>
-🥉<br>
-<strong>BRONZE TROPHY</strong><br>
-<sub>First Live Deploy</sub><br>
-<img src="https://img.shields.io/badge/UNLOCKED-CD7F32?style=for-the-badge&logo=award&logoColor=white"/>
-</div>
+</tr>
+<tr>
+<td align="center">
+👥 Community
+Show Image
 </td>
-<td align="center" width="20%">
-<div>
-💎<br>
-<strong>DIAMOND TROPHY</strong><br>
-<sub>Security Specialist</sub><br>
-<img src="https://img.shields.io/badge/IN_PROGRESS-00CED1?style=for-the-badge&logo=diamond&logoColor=white"/>
-</div>
-</td>
-<td align="center" width="20%">
-<div>
-👑<br>
-<strong>LEGENDARY</strong><br>
-<sub>Full Stack Pro</sub><br>
-<img src="https://img.shields.io/badge/LOCKED-808080?style=for-the-badge&logo=crown&logoColor=white"/>
-</div>
+<td align="center">
+🔀 Contributions
+Show Image
 </td>
 </tr>
 </table>
-
-### 🎖️ **Special Achievements**
-
-<table align="center">
-<tr>
-<td align="center" width="25%">
-<div style="border: 2px solid #FFD700; border-radius: 10px; padding: 10px; background: linear-gradient(45deg, #1a1b27, #2d2e3e);">
-⚡<br>
-<strong>RAPID CODER</strong><br>
-<sub>Multiple commits per day</sub><br>
-<img src="https://img.shields.io/badge/✅_ACHIEVED-32CD32?style=for-the-badge&logoColor=white"/>
-</div>
-</td>
-<td align="center" width="25%">
-<div style="border: 2px solid #FF6B35; border-radius: 10px; padding: 10px; background: linear-gradient(45deg, #1a1b27, #2d2e3e);">
-🔥<br>
-<strong>TECH COLLECTOR</strong><br>
-<sub>8+ Technologies mastered</sub><br>
-<img src="https://img.shields.io/badge/✅_ACHIEVED-FF4500?style=for-the-badge&logoColor=white"/>
-</div>
-</td>
-<td align="center" width="25%">
-<div style="border: 2px solid #1E90FF; border-radius: 10px; padding: 10px; background: linear-gradient(45deg, #1a1b27, #2d2e3e);">
-🚀<br>
-<strong>DEPLOYMENT KING</strong><br>
-<sub>All projects live & running</sub><br>
-<img src="https://img.shields.io/badge/✅_ACHIEVED-1E90FF?style=for-the-badge&logoColor=white"/>
-</div>
-</td>
-<td align="center" width="25%">
-<div style="border: 2px solid #DC143C; border-radius: 10px; padding: 10px; background: linear-gradient(45deg, #1a1b27, #2d2e3e);">
-🛡️<br>
-<strong>SECURITY SEEKER</strong><br>
-<sub>Pentesting journey started</sub><br>
-<img src="https://img.shields.io/badge/🔄_IN_PROGRESS-DC143C?style=for-the-badge&logoColor=white"/>
-</div>
-</td>
-</tr>
-</table>
-
-### 🌟 **Rare Achievements**
-
-<div align="center">
-
-![Coding Warrior](https://img.shields.io/badge/⚔️_CODING_WARRIOR-Defeated_1000+_Bugs-gold?style=for-the-badge&labelColor=1a1b27&logo=battle.net&logoColor=FFD700)
-![Night Owl](https://img.shields.io/badge/🦉_NIGHT_OWL-Commits_After_Midnight-purple?style=for-the-badge&labelColor=1a1b27&logo=moon&logoColor=white)
-![Stack Overflow](https://img.shields.io/badge/🎯_PROBLEM_SOLVER-Debug_Master-red?style=for-the-badge&labelColor=1a1b27&logo=stackoverflow&logoColor=FF0000)
-
-</div>
-
-### 📊 **Achievement Progress**
-
-| 🏆 Trophy Type | Progress | Status | Next Goal |
-|----------------|----------|--------|-----------|
-| 🥇 **Project Master** | ![90%](https://progress-bar.dev/90?color=FFD700) | 15/20 Projects | 🎯 20 Projects |
-| 🛡️ **Security Expert** | ![45%](https://progress-bar.dev/45?color=DC143C) | Beginner Level | 🎯 CEH Cert |
-| ⚡ **Commit Streak** | ![75%](https://progress-bar.dev/75?color=32CD32) | Active Daily | 🎯 100 Day Streak |
-| 🌟 **Community Impact** | ![30%](https://progress-bar.dev/30?color=1E90FF) | Growing | 🎯 100 Stars |
-
-</div>
-
-<!-- Backup achievement badges -->
-<div align="center">
-
-### 🎯 **Achievement Highlights**
-
-![Commits](https://img.shields.io/badge/Total_Commits-500+-success?style=for-the-badge&logo=git&logoColor=white)
-![Repositories](https://img.shields.io/badge/Public_Repos-15+-blue?style=for-the-badge&logo=github&logoColor=white)
-![Languages](https://img.shields.io/badge/Languages-8+-orange?style=for-the-badge&logo=code&logoColor=white)
-![Projects](https://img.shields.io/badge/Live_Projects-15+-purple?style=for-the-badge&logo=vercel&logoColor=white)
-
-### 📈 **Development Milestones**
-
-| Achievement | Status | Description |
-|-------------|--------|-------------|
-| 🎯 **First Commit** | ✅ Achieved | Started coding journey |
-| 🚀 **10+ Repositories** | ✅ Achieved | Built multiple projects |
-| ⭐ **GitHub Stars** | 🔄 In Progress | Building community recognition |
-| 🤝 **Collaborations** | 🔄 Growing | Contributing to projects |
-| 🏆 **100+ Commits** | ✅ Achieved | Consistent development |
-| 🌟 **Portfolio Launch** | ✅ Achieved | Professional presence |
-
 </div>
 ---
 
