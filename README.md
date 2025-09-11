@@ -411,8 +411,46 @@
 
 ### 🏆 GitHub Achievements & Recognition  
 
-![trophy](https://github-profile-trophy.vercel.app/?username=dhiljaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
+<div align="center">
 
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=dhiljaa&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=7)
+
+</div>
+
+<!-- Alternative trophy display if the above doesn't work -->
+<details>
+<summary><strong>🏆 Alternative Trophy Display</strong></summary>
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dhiljaa&theme=tokyonight&column=3&margin-w=15&margin-h=15)](https://github.com/dhiljaa)
+
+</div>
+
+</details>
+
+<!-- Backup achievement badges -->
+<div align="center">
+
+### 🎯 **Achievement Highlights**
+
+![Commits](https://img.shields.io/badge/Total_Commits-500+-success?style=for-the-badge&logo=git&logoColor=white)
+![Repositories](https://img.shields.io/badge/Public_Repos-15+-blue?style=for-the-badge&logo=github&logoColor=white)
+![Languages](https://img.shields.io/badge/Languages-8+-orange?style=for-the-badge&logo=code&logoColor=white)
+![Projects](https://img.shields.io/badge/Live_Projects-15+-purple?style=for-the-badge&logo=vercel&logoColor=white)
+
+### 📈 **Development Milestones**
+
+| Achievement | Status | Description |
+|-------------|--------|-------------|
+| 🎯 **First Commit** | ✅ Achieved | Started coding journey |
+| 🚀 **10+ Repositories** | ✅ Achieved | Built multiple projects |
+| ⭐ **GitHub Stars** | 🔄 In Progress | Building community recognition |
+| 🤝 **Collaborations** | 🔄 Growing | Contributing to projects |
+| 🏆 **100+ Commits** | ✅ Achieved | Consistent development |
+| 🌟 **Portfolio Launch** | ✅ Achieved | Professional presence |
+
+</div>
 
 ---
 
