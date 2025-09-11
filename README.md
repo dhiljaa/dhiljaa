@@ -408,35 +408,6 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhiljaa&theme=tokyonight" alt="Most Commit Language" width="49%"/>
 
 
-
-🏆 GitHub Achievements & Recognition
-<img src="https://github-profile-trophy.vercel.app/?username=dhiljaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" width="100%"/>
-📊 Real-time Development Metrics
-<table align="center">
-<tr>
-<td align="center">
-📚 Repository Stats
-Show Image
-</td>
-<td align="center">
-⭐ Stars Earned
-Show Image
-</td>
-</tr>
-<tr>
-<td align="center">
-👥 Community
-Show Image
-</td>
-<td align="center">
-🔀 Contributions
-Show Image
-</td>
-</tr>
-</table>
-</div>
----
-
 ## 🌐 Connect & Support
 
 <div align="center">
