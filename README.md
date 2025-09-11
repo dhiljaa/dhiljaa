@@ -452,7 +452,7 @@
 ### ☕ **Support My Work**
 <div align="center">
 
-[![Saweria](https://img.shields.io/badge/☕_Support_on-Saweria-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://saweria.com/dhiljaa)
+[![Support me on Saweria](https://img.shields.io/badge/☕_Support_on-Saweria-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://saweria.com/dhiljaa)
 
 **💝 Your support helps me continue learning and creating amazing projects! Every contribution is greatly appreciated.**
 
