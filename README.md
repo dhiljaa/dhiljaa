@@ -86,7 +86,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=FF0000&center=true&vCenter=true&width=900&lines=🔐+Ethical+Hacker+in+Training;🕵️+Penetration+Testing+Specialist;🛡️+Cybersecurity+Researcher;🎯+OWASP+Top+10+Expert;💀+Vulnerability+Hunter;⚡+Red+Team+Enthusiast;🔍+Security+Assessment+Pro;🚨+Incident+Response+Ready" alt="Penetration Testing" />
 </div>
 
-### 🎯 **Penetration Testing Specializations**
+### 🎯 **Penetration Testing Training**
 
 <table align="center">
 <tr>
