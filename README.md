@@ -413,21 +413,36 @@
 
 <div align="center">
 
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=dhiljaa&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=1&column=7)
+### 🎖️ **Development Achievements**
+
+![GitHub Achievements](https://img.shields.io/badge/🏆_Achievements-Unlocked-gold?style=for-the-badge&labelColor=1a1b27&color=FFD700)
+![Coding Streak](https://img.shields.io/badge/⚡_Active_Coder-Daily_Commits-success?style=for-the-badge&labelColor=1a1b27&color=32CD32)
+![Project Builder](https://img.shields.io/badge/🚀_Project_Builder-15+_Live_Sites-blue?style=for-the-badge&labelColor=1a1b27&color=1E90FF)
+
+### 🌟 **Learning Milestones**
+
+<table align="center">
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🎯-First_Commit-28a745?style=for-the-badge&logoColor=white"/>
+<br><strong>Journey Started</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/💻-15+_Projects-0366d6?style=for-the-badge&logoColor=white"/>
+<br><strong>Portfolio Built</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🔥-Multiple_Tech-f39c12?style=for-the-badge&logoColor=white"/>
+<br><strong>Stack Mastery</strong>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🔐-Security_Focus-dc3545?style=for-the-badge&logoColor=white"/>
+<br><strong>Pentesting Path</strong>
+</td>
+</tr>
+</table>
 
 </div>
-
-<!-- Alternative trophy display if the above doesn't work -->
-<details>
-<summary><strong>🏆 Alternative Trophy Display</strong></summary>
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=dhiljaa&theme=tokyonight&column=3&margin-w=15&margin-h=15)](https://github.com/dhiljaa)
-
-</div>
-
-</details>
 
 <!-- Backup achievement badges -->
 <div align="center">
@@ -451,7 +466,6 @@
 | 🌟 **Portfolio Launch** | ✅ Achieved | Professional presence |
 
 </div>
-
 ---
 
 ## 🌐 Connect & Support
