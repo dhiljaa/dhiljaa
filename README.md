@@ -155,9 +155,9 @@
 
 | **Domain** | **Skills** | **Progress** | **Confidence Level** |
 |------------|------------|--------------|---------------------|
-| **🔍 Information Gathering** | OSINT, Footprinting, Enumeration | ![80%](https://progress-bar.dev/80) | ⭐⭐⭐⭐☆ |
-| **🕷️ Web App Security** | OWASP Top 10, Burp Suite, Manual Testing | ![75%](https://progress-bar.dev/75) | ⭐⭐⭐⭐☆ |
-| **🖥️ Network Penetration** | Nmap, Vulnerability Assessment | ![65%](https://progress-bar.dev/65) | ⭐⭐⭐☆☆ |
+| **🔍 Information Gathering** | OSINT, Footprinting, Enumeration | ![80%](https://progress-bar.dev/80) | ⭐⭐☆☆☆ |
+| **🕷️ Web App Security** | OWASP Top 10, Burp Suite, Manual Testing | ![75%](https://progress-bar.dev/75) | ⭐⭐☆☆☆ |
+| **🖥️ Network Penetration** | Nmap, Vulnerability Assessment | ![65%](https://progress-bar.dev/65) | ⭐⭐☆☆☆ |
 | **💀 Exploitation** | Metasploit, Custom Exploits | ![60%](https://progress-bar.dev/60) | ⭐⭐⭐☆☆ |
 | **📋 Post-Exploitation** | Privilege Escalation, Persistence | ![55%](https://progress-bar.dev/55) | ⭐⭐⭐☆☆ |
 | **📝 Reporting** | Technical Writing, Risk Assessment | ![70%](https://progress-bar.dev/70) | ⭐⭐⭐⭐☆ |
@@ -193,123 +193,98 @@
 </div>
 
 ---
-
-## 🎨 My Learning Projects
+# My Learning Projects
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=4ECDC4&center=true&vCenter=true&width=800&lines=📚+Learning+Through+Building;🚀+Practice+Projects;⚡+Simple+but+Functional;🌱+Growing+My+Portfolio;🎯+Real+Learning+Experience" alt="Learning Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=4ECDC4&center=true&vCenter=true&width=800&lines=Learning+Through+Building;Practice+Projects;Simple+but+Functional;Growing+My+Portfolio;Real+Learning+Experience" alt="Learning Projects" />
 </div>
 
-### **🎬 Entertainment & Media Projects**
-<table align="center">
-<tr>
-<td align="center" width="50%">
+## Entertainment & Media Projects
 
-#### **🎥 EH Film**
+### EH Film
 ![Website](https://img.shields.io/website-up-down-green-red/https/ehfilm.vercel.app.svg?style=for-the-badge)
 
-**My First Movie Site**
-- 🎯 Built with HTML, CSS, JS
-- 📱 Learning Responsive Design
-- ⚡ Simple but Working
-- 🎨 Basic UI Practice
+**My First Movie Website**
+- Built with HTML, CSS, JavaScript
+- Learning responsive design principles
+- Simple but fully functional
+- Basic UI/UX practice
 
-[**🚀 See Project**](https://ehfilm.vercel.app/)
+[**View Project**](https://ehfilm.vercel.app/)
 
-</td>
-<td align="center" width="50%">
-
-#### **📖 Al-Quran Digital**
+### Al-Quran Digital
 ![Website](https://img.shields.io/website-up-down-green-red/https/al-ikhsan-digital-quran.vercel.app.svg?style=for-the-badge)
 
-**Learning API Integration**
-- 📚 Simple Quran Reader
-- 🔍 Basic Search Feature
-- 🌙 Dark/Light Mode Practice
-- 📱 Mobile-Friendly Design
+**API Integration Learning Project**
+- Simple Quran reader application
+- Basic search functionality
+- Dark/Light mode implementation
+- Mobile-friendly responsive design
 
-[**🚀 See Project**](https://al-ikhsan-digital-quran.vercel.app/)
+[**View Project**](https://al-ikhsan-digital-quran.vercel.app/)
 
-</td>
-</tr>
-</table>
+## Business & E-commerce Learning Projects
 
-### **💼 Business & E-commerce Learning Projects**
+| Project | Learning Focus | Technologies | Status |
+|---------|---------------|-------------|--------|
+| **Indah Perak** | Basic PHP & Bootstrap | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | [Live](https://indahperak.vercel.app/) |
+| **Ardelya** | React Components | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | [Live](https://ardelya.vercel.app/) |
+| **Bremafo** | Node.js Fundamentals | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) | [Live](https://bremafo.vercel.app/) |
+| **EHF Residence** | Laravel Framework | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | [Live](https://ehf-residence.vercel.app/) |
+| **EHF Cars** | JavaScript Practice | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [Live](https://ehfcars.vercel.app/) |
 
-<div align="center">
+## Company Profile Practice Projects
 
-| **Project** | **What I Learned** | **Technologies** | **Status** |
-|-------------|-------------------|------------------|------------|
-| **💍 Indah Perak** | Basic PHP & Bootstrap | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | [Live](https://indahperak.vercel.app/) |
-| **✨ Ardelya** | React Components | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | [Live](https://ardelya.vercel.app/) |
-| **🏢 Bremafo** | Node.js Basics | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) | [Live](https://bremafo.vercel.app/) |
-| **🏠 EHF Residence** | Laravel Learning | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | [Live](https://ehf-residence.vercel.app/) |
-| **🚗 EHF Cars** | JavaScript Practice | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [Live](https://ehfcars.vercel.app/) |
+**Professional Website Development Practice**
 
-</div>
+| Project | Learning Focus | Link |
+|---------|---------------|------|
+| **Teras Kebinekaan** | Professional Layout Design | [Visit](https://www.teraskebinekaan.org/) |
+| **EHF Creative** | Portfolio Website Structure | [Visit](https://ehfcreative.xyz/) |
+| **EHF Company** | Corporate Website Style | [Visit](https://ehfcompany.vercel.app/) |
 
-### **🌐 Company Profile Practice Projects**
+## Real Estate & Automotive Projects
 
-<div align="center">
-
-#### **Simple Company Websites I Built for Learning**
-
-| **Project** | **Learning Focus** | **Link** |
-|-------------|-------------------|----------|
-| **🤝 Teras Kebinekaan** | Professional Layout | [Visit](https://www.teraskebinekaan.org/) |
-| **🎨 EHF Creative** | Portfolio Design | [Visit](https://ehfcreative.xyz/) |
-| **💼 EHF Company** | Corporate Style | [Visit](https://ehfcompany.vercel.app/) |
-
-</div>
-
-### **🏠 Real Estate & Automotive**
-<table align="center">
-<tr>
-<td width="50%" align="center">
-
-#### **🏠 EHF Residence**
+### EHF Residence
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
-Real Estate Showcase Platform
-- 🏘️ Property Management System
-- 📱 Mobile-First Design
-- 🔍 Advanced Search Filters
+**Real Estate Showcase Platform**
+- Property management system
+- Mobile-first responsive design
+- Advanced search and filter functionality
 
-[**🚀 Explore Properties**](https://ehf-residence.vercel.app/)
+[**Explore Properties**](https://ehf-residence.vercel.app/)
 
-</td>
-<td width="50%" align="center">
-
-#### **🚗 EHF Cars**
+### EHF Cars
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-Automotive Business Portal
-- 🚙 Car Inventory Management
-- 💰 Price Calculator
-- 📊 Analytics Dashboard
+**Automotive Business Portal**
+- Car inventory management system
+- Price calculator functionality
+- Analytics dashboard
 
-[**🚀 Browse Cars**](https://ehfcars.vercel.app/)
+[**Browse Cars**](https://ehfcars.vercel.app/)
 
-</td>
-</tr>
-</table>
+## Cloud & Technology Services
 
-### **☁️ Cloud & Technology Services**
-<div align="center">
-
-#### **☁️ Negantara Cloud**
+### Negantara Cloud
 ![Cloud](https://img.shields.io/badge/Cloud_Services-FF6B6B?style=for-the-badge&logoColor=white)
 
 **Enterprise Cloud Solutions Platform**
-- ☁️ Multi-cloud Management
-- 🔒 Security-First Architecture  
-- 📊 Real-time Monitoring
-- 💼 Enterprise Grade Solutions
+- Multi-cloud management capabilities
+- Security-first architecture
+- Real-time monitoring systems
+- Enterprise-grade solutions
 
-[**🚀 Discover Cloud Solutions**](https://negantara-cloud.vercel.app/)
+[**Discover Cloud Solutions**](https://negantara-cloud.vercel.app/)
+
+---
+
+<div align="center">
+
+**These projects represent my learning journey in web development. Each project helped me understand different aspects of programming, from basic HTML/CSS to advanced frameworks like Laravel and React.**
 
 </div>
-
 ---
 
 ## 📊 GitHub Analytics & Performance Metrics
