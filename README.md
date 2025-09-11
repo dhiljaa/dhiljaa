@@ -194,97 +194,68 @@
 
 ---
 # My Learning Projects
+# PORTOFOLIO EHF CREATIVE
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=2000&color=4ECDC4&center=true&vCenter=true&width=800&lines=Learning+Through+Building;Practice+Projects;Simple+but+Functional;Growing+My+Portfolio;Real+Learning+Experience" alt="Learning Projects" />
-</div>
-
-## Entertainment & Media Projects
-
-### EH Film
-![Website](https://img.shields.io/website-up-down-green-red/https/ehfilm.vercel.app.svg?style=for-the-badge)
-
-**My First Movie Website**
-- Built with HTML, CSS, JavaScript
-- Learning responsive design principles
-- Simple but fully functional
-- Basic UI/UX practice
-
-[**View Project**](https://ehfilm.vercel.app/)
-
-### Al-Quran Digital
-![Website](https://img.shields.io/website-up-down-green-red/https/al-ikhsan-digital-quran.vercel.app.svg?style=for-the-badge)
-
-**API Integration Learning Project**
-- Simple Quran reader application
-- Basic search functionality
-- Dark/Light mode implementation
-- Mobile-friendly responsive design
-
-[**View Project**](https://al-ikhsan-digital-quran.vercel.app/)
-
-## Business & E-commerce Learning Projects
+## PORTO WEB FILM
 
 | Project | Learning Focus | Technologies | Status |
 |---------|---------------|-------------|--------|
-| **Indah Perak** | Basic PHP & Bootstrap | ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white) | [Live](https://indahperak.vercel.app/) |
-| **Ardelya** | React Components | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | [Live](https://ardelya.vercel.app/) |
-| **Bremafo** | Node.js Fundamentals | ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white) | [Live](https://bremafo.vercel.app/) |
-| **EHF Residence** | Laravel Framework | ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) | [Live](https://ehf-residence.vercel.app/) |
-| **EHF Cars** | JavaScript Practice | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | [Live](https://ehfcars.vercel.app/) |
+| **EH Film** | HTML, CSS, JavaScript | Frontend Development | [Live](https://ehfilm.vercel.app/) |
 
-## Company Profile Practice Projects
+## PORTO WEB TOKO PERHIASAN
 
-**Professional Website Development Practice**
+| Project | Learning Focus | Technologies | Status |
+|---------|---------------|-------------|--------|
+| **Indah Perak** | Basic PHP & Bootstrap | PHP | [Live](https://indahperak.vercel.app/) |
+| **Ardelya** | React Components | React | [Live](https://ardelya.vercel.app/) |
 
-| Project | Learning Focus | Link |
-|---------|---------------|------|
-| **Teras Kebinekaan** | Professional Layout Design | [Visit](https://www.teraskebinekaan.org/) |
-| **EHF Creative** | Portfolio Website Structure | [Visit](https://ehfcreative.xyz/) |
-| **EHF Company** | Corporate Website Style | [Visit](https://ehfcompany.vercel.app/) |
+## PORTO WEB TRAVEL
 
-## Real Estate & Automotive Projects
+| Project | Learning Focus | Technologies | Status |
+|---------|---------------|-------------|--------|
+| **EHF Travel** | Travel Website Design | Frontend Development | [Live](https://ehftravel.vercel.app/) |
+| **EHF Umroh** | Religious Travel Platform | Web Development | [Live](https://ehfumroh.vercel.app/) |
 
-### EHF Residence
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+## PORTO WEB ASURANSI
 
-**Real Estate Showcase Platform**
-- Property management system
-- Mobile-first responsive design
-- Advanced search and filter functionality
+| Project | Learning Focus | Technologies | Status |
+|---------|---------------|-------------|--------|
+| **Amania Asuransi** | Insurance Website | Web Development | [Live](https://amania-asuransi.vercel.app/) |
 
-[**Explore Properties**](https://ehf-residence.vercel.app/)
+## PORTO WEB COMPRO
 
-### EHF Cars
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+| Project | Learning Focus | Technologies | Status |
+|---------|---------------|-------------|--------|
+| **Teras Kebinekaan** | Professional Layout | Corporate Website | [Live](https://www.teraskebinekaan.org/) |
+| **EHF Creative** | Portfolio Design | Creative Portfolio | [Live](https://ehfcreative.xyz/) |
+| **EHF Company** | Corporate Style | Company Profile | [Live](https://ehfcompany.vercel.app/) |
 
-**Automotive Business Portal**
-- Car inventory management system
-- Price calculator functionality
-- Analytics dashboard
+## PORTO WEB BISNIS
 
-[**Browse Cars**](https://ehfcars.vercel.app/)
+| Project | Learning Focus | Technologies | Status |
+|---------|---------------|-------------|--------|
+| **Bremafo** | Node.js Fundamentals | Node.js | [Live](https://bremafo.vercel.app/) |
+| **EHF Residence** | Laravel Framework | Laravel | [Live](https://ehf-residence.vercel.app/) |
+| **EHF Cars** | JavaScript Practice | JavaScript | [Live](https://ehfcars.vercel.app/) |
+| **Negantara Cloud** | Cloud Services | Cloud Platform | [Live](https://negantara-cloud.vercel.app/) |
 
-## Cloud & Technology Services
+## PORTO WEB DOMAIN CHECKER
 
-### Negantara Cloud
-![Cloud](https://img.shields.io/badge/Cloud_Services-FF6B6B?style=for-the-badge&logoColor=white)
+| Project | Learning Focus | Technologies | Status |
+|---------|---------------|-------------|--------|
+| **Sungokong Domain** | Domain Checking System | Web Tools | [Live](https://sungokong-domain.vercel.app/) |
 
-**Enterprise Cloud Solutions Platform**
-- Multi-cloud management capabilities
-- Security-first architecture
-- Real-time monitoring systems
-- Enterprise-grade solutions
+## PORTO WEB ALQURAN (DALAM MASA PENGEMBANGAN)
 
-[**Discover Cloud Solutions**](https://negantara-cloud.vercel.app/)
+| Project | Learning Focus | Technologies | Status |
+|---------|---------------|-------------|--------|
+| **Al-Ikhsan Digital Quran** | API Integration | Islamic Web App | [Live](https://al-ikhsan-digital-quran.vercel.app/) |
 
 ---
 
-<div align="center">
+## PORTO YANG LAIN BISA DIPANTAU
 
-**These projects represent my learning journey in web development. Each project helped me understand different aspects of programming, from basic HTML/CSS to advanced frameworks like Laravel and React.**
-
-</div>
+**Tiktok**: ehfcreative
 ---
 
 ## 📊 GitHub Analytics & Performance Metrics
