@@ -407,9 +407,11 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dhiljaa&theme=tokyonight" alt="Repos per Language" width="49%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dhiljaa&theme=tokyonight" alt="Most Commit Language" width="49%"/>
 
-### 🏆 GitHub Achievements & Recognition
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=dhiljaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 🏆 GitHub Achievements & Recognition  
+
+![trophy](https://github-profile-trophy.vercel.app/?username=dhiljaa&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4)
 
 
 ---
