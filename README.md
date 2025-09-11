@@ -193,7 +193,6 @@
 </div>
 
 ---
-# My Learning Projects
 # PORTOFOLIO EHF CREATIVE
 
 ## PORTO WEB FILM
